@@ -1,0 +1,3 @@
+﻿  Actor.cpp
+c:\users\mikep\source\repos\teamfreezeman\iceman\studentworld.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IceMan.vcxproj -> C:\Users\mikep\source\repos\teamfreezeman\Debug\IceMan.exe
